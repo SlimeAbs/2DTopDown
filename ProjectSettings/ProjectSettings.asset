@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 217d21f2457cd1540ad8eb26c47bb7a2
+  productGUID: 9afe23169d34fe94ab534e40de6a91e5
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: JV
+  productName: Teste
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -798,14 +798,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: JV
+  metroPackageName: Teste
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: JV
+  metroApplicationDescription: Teste
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -876,10 +876,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 75f24feb-5264-41f0-b29b-067cdf34b3e2
+  cloudProjectId: c9204835-67af-4e7b-bf95-68972529b689
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: JV
+  projectName: Teste
   organizationId: danielszbarro2
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
